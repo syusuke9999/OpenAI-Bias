@@ -2,7 +2,7 @@
 
 ## 日本語
 
-このリポジトリは、OpenAIの言語モデルにおける **人種・性指向・性別などに関連するバイアスや差別的出力** の証拠を保全する目的で作成されました。
+このリポジトリは、OpenAIの言語モデルにおける **性的指向・性別などに関連するバイアスや差別的出力** の証拠を保全する目的で作成されました。
 
 ### 構成
 
@@ -21,7 +21,7 @@
 
 ## English
 
-This repository was created to preserve **evidence of bias or discriminatory output** in OpenAI's language models, particularly related to race, sexual orientation, and gender.
+This repository was created to preserve **evidence of bias or discriminatory output** in OpenAI's language models, particularly related to sexual orientation, and gender.
 
 ### Structure
 
