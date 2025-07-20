@@ -1,10 +1,10 @@
 # OpenAIにおける偏見・差別的出力に関する証拠保全 / Evidence Archive: Biased or Discriminatory Outputs in OpenAI
 
-## 🇯🇵 日本語
+## 日本語
 
 このリポジトリは、OpenAIの言語モデルにおける **人種・性指向・性別などに関連するバイアスや差別的出力** の証拠を保全する目的で作成されました。
 
-### 📁 構成
+### 構成
 
 - `/evidence/LICENSE`  
   → 本リポジトリ全体に適用されるライセンスです（※CC0やMIT等をご確認ください）。
